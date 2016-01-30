@@ -1,0 +1,26 @@
+D:\Visual Studio\Listtest\Listtest\bin\Debug\Listtest.exe.config
+D:\Visual Studio\Listtest\Listtest\obj\Debug\MainWindow.baml
+D:\Visual Studio\Listtest\Listtest\obj\Debug\MainWindow.g.cs
+D:\Visual Studio\Listtest\Listtest\obj\Debug\App.g.cs
+D:\Visual Studio\Listtest\Listtest\obj\Debug\Listtest_MarkupCompile.cache
+D:\Visual Studio\Listtest\Listtest\obj\Debug\Listtest.g.resources
+D:\Visual Studio\Listtest\Listtest\obj\Debug\Listtest.Properties.Resources.resources
+D:\Visual Studio\Listtest\Listtest\obj\Debug\Listtest.csproj.GenerateResource.Cache
+D:\Visual Studio\Listtest\Listtest\bin\Debug\Listtest.exe
+D:\Visual Studio\Listtest\Listtest\bin\Debug\Listtest.pdb
+D:\Visual Studio\Listtest\Listtest\obj\Debug\Listtest.exe
+D:\Visual Studio\Listtest\Listtest\obj\Debug\Listtest.pdb
+D:\Visual Studio\Listtest\Listtest\obj\Debug\Listtest.csprojResolveAssemblyReference.cache
+F:\VisualStudioProject\Listtest\Listtest\bin\Debug\Listtest.exe.config
+F:\VisualStudioProject\Listtest\Listtest\obj\Debug\Listtest.exe
+F:\VisualStudioProject\Listtest\Listtest\obj\Debug\Listtest.pdb
+F:\VisualStudioProject\Listtest\Listtest\bin\Debug\Listtest.exe
+F:\VisualStudioProject\Listtest\Listtest\bin\Debug\Listtest.pdb
+F:\VisualStudioProject\Listtest\Listtest\obj\Debug\Listtest.csprojResolveAssemblyReference.cache
+F:\VisualStudioProject\Listtest\Listtest\obj\Debug\MainWindow.baml
+F:\VisualStudioProject\Listtest\Listtest\obj\Debug\MainWindow.g.cs
+F:\VisualStudioProject\Listtest\Listtest\obj\Debug\App.g.cs
+F:\VisualStudioProject\Listtest\Listtest\obj\Debug\Listtest_MarkupCompile.cache
+F:\VisualStudioProject\Listtest\Listtest\obj\Debug\Listtest.g.resources
+F:\VisualStudioProject\Listtest\Listtest\obj\Debug\Listtest.Properties.Resources.resources
+F:\VisualStudioProject\Listtest\Listtest\obj\Debug\Listtest.csproj.GenerateResource.Cache
